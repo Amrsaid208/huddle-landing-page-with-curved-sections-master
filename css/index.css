@@ -231,6 +231,9 @@ footer .pink {
         bottom: -65px;
         width: 40%;
     }
+    footer .curve{
+     width:100%
+ }
     footer input {
         height: 50px;
         width: 250px;
